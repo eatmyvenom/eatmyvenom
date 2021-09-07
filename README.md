@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I am EatMyVenom
+That's just a silly online name of course, but it's where you can find me most of the time.
 
-<!--
-**eatmyvenom/eatmyvenom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m currently working on [HyArcade](https://github.com/eatmyvenom/hyarcade)
+- I’m looking to collaborate on basically any discord.js project
+- How to reach me: eatmyvenom@outlook.com or v.nmm@outlook.com
 
-Here are some ideas to get you started:
+### Github info
+##### Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eatmyvenom&theme=radical)
+##### Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=eatmyvenom&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ ###### This profile page was basically copied from Blackoutburst's profile
